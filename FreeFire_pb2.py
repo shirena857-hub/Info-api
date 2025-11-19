@@ -42,11 +42,3 @@ if not _descriptor._USE_C_DESCRIPTORS:
   _globals['_LOGINRES']._serialized_start=319
   _globals['_LOGINRES']._serialized_end=735
 # @@protoc_insertion_point(module_scope)
-
-
-#THIS CODE CREATE BY @JOBAYAR_AHME
-#THIS CODE CREATE BY @JOBAYAR_AHME
-#THIS CODE CREATE BY @JOBAYAR_AHME
-#THIS CODE CREATE BY @JOBAYAR_AHME
-#THIS CODE CREATE BY @JOBAYAR_AHME
-#THIS CODE CREATE BY @JOBAYAR_AHME
